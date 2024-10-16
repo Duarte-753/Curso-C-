@@ -1,0 +1,47 @@
+ESTRUTURA DO CURSO
+
+1.Nível Básico
+
+ 1. Preparação do ambiente
+ 2. Criando um Projeto
+ 3. Comentando o código
+ 4. Imprimindo textos
+ 5. Variáveis (Tipos Básicos)
+ 6. Depuração básica: (Breakpoints e watcher)
+ 7. Operadores lógicos
+ 8. Operadores matemáticos
+ 9. Manipulação de strings
+ 10.Entrada e saída de dados
+ 11.Struct básico
+ 12.enums
+ 13.Arrays
+ 14.Listas
+ 15.Filas
+ 16.Estruturas de decisão
+ 17.Laços de repetições
+ 18.Tratamento de Exceções
+ 19.Métodos
+ 20.Depuração avançada: call stacker
+ 21.Delegados
+ 22.Manipulação básica de arquivos
+ 23.Arquivos - StreamWriter e StreamReader
+
+2.Nível Avançado
+ 1. Programação orientada a objetos
+  1.Introdução
+  2.Classes e objetos
+  3.Herança
+  4.Upcasting e Downcasting
+  5.Serialização e deserialização
+ 2.Eventos
+ 3.DLLs
+ 4.Programação paralela
+  1.Threads
+  2.Tasks
+  3.Mutex
+  4.Semaphore
+ 5.Interfaces gráficas(Windows forms)
+ 6.WebServices
+ 7.Sockets
+ 8.Serviço windows
+ 9.Banco de dados SQL
